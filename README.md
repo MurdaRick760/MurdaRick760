@@ -15,7 +15,7 @@ My journey in life has led me to acquire a desire to enter the cybersecurity and
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,5 +56,5 @@ My journey in life has led me to acquire a desire to enter the cybersecurity and
 </div>
 
 # Projects
-- Detection Lab
+- <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
