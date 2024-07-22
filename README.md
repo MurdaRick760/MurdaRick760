@@ -8,7 +8,7 @@ I am a motivated individual with a passion for technology and an eagerness to re
 ## Objective
 
 
-My journey in life has led me to acquire a desire to enter the cybersecurity and tech spaces. I am not hopeful and eager to advance my tech career wherever the demand may be.
+My journey in life has led me to acquire a desire to enter the cybersecurity and tech spaces. I am hopeful and eager to advance my tech career wherever the demand may be.
 
 ## Skills
 
