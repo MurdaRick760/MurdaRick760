@@ -1,5 +1,5 @@
 # Hello, I'm Richard Smith
-<a href="https://www.linkedin.com/in/ricky-smith-4a522a167/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/richard-smith-jr-4"/ a>
 
 
 
@@ -49,7 +49,8 @@ My journey in life has led me to acquire a desire to enter the cybersecurity and
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+<img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+     </div>
 
 # Projects
 - <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>
