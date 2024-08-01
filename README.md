@@ -49,8 +49,12 @@ My journey in life has led me to acquire a desire to enter the cybersecurity and
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=31ZLC1QW3ZP6V156" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+<a href="https://learn.microsoft.com/en-us/users/rickysmith-7971/credentials/e121e19c1709be50?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank">
+  <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</a>
      </div>
 
 # Projects
