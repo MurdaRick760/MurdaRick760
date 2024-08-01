@@ -4,12 +4,12 @@
 </a>
 
 
-I am a motivated individual with a passion for technology and an eagerness to resolve problems. I enjoy learning and applying such knowledge in real-world scenarios.
+I am a driven and tech-savvy professional with a robust passion for technology and a talent for resolving complex problems. I thrive on continuous learning and am adept at translating theoretical knowledge into practical, real-world applications.
 
 ## Objective
 
 
-My journey in life has led me to acquire a desire to enter the cybersecurity and tech spaces. I am hopeful and eager to advance my tech career wherever the demand may be.
+My career journey has instilled in me a deep-seated ambition to excel in the cybersecurity and technology sectors. I am committed to advancing my tech career and am enthusiastic about contributing my skills and expertise to meet the dynamic demands of the industry.
 
 ## Skills
 
@@ -52,8 +52,9 @@ My journey in life has led me to acquire a desire to enter the cybersecurity and
 <a href="https://www.certmetrics.com/comptia/public/verification.aspx?code=31ZLC1QW3ZP6V156" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
+  
 <a href="https://learn.microsoft.com/en-us/users/rickysmith-7971/credentials/e121e19c1709be50?ref=https%3A%2F%2Fwww.linkedin.com%2F" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-Microsoft%20Certified%3A%20Azure%20Fundamentals-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </a>
   </div>
 
