@@ -1,5 +1,5 @@
 # Hello, I'm Richard Smith
-<a href="www.linkedin.com/in/richard-smith-jr-4"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/richard-smith-jr-4a522a167"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
