@@ -65,4 +65,4 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 
 # Projects
 - <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/RichardTech33/SOC-Automation-Lab">SOC Automation Project</a>
