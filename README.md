@@ -46,6 +46,14 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_S3-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+
+</div>
+
+
 ## Certifications
 
 <div>
