@@ -17,11 +17,11 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/RichardTech33/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection | |
+| Security Automation with Shuffle SOAR         | 
+| Incident Response Planning and Execution      ||
 | Case Management with TheHive                  | <a href="https://github.com/RichardTech33/SOC-Automation-Lab">SOC Automation Lab</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|<!--
+| Scripting and Automation for Threat Mitigation | |<!--
 
 ## Tools
 
