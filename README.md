@@ -20,7 +20,7 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 | Network Traffic Monitoring and Attack Detection | |
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      ||
-| Case Management with TheHive                  | <a href="https://github.com/RichardTech33/SOC-Automation-Lab">SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href="https://github.com/RichardTech33/SOC-Automation-Lab">Case Management Lab</a>|
 | Scripting and Automation for Threat Mitigation | |<!--
 
 ## Tools
@@ -65,4 +65,4 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 
 # Projects
 - <a href="https://github.com/MurdaRick760/Detection-Lab/tree/main">Detection Lab</a>
-- <a href="https://github.com/RichardTech33/SOC-Automation-Lab">SOC Automation Project</a>
+- <a href="https://github.com/RichardTech33/SOC-Automation-Lab">Case Management Lab</a>
