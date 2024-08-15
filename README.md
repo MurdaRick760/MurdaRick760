@@ -21,7 +21,7 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 | Security Automation with Shuffle SOAR         | 
 | Incident Response Planning and Execution      ||
 | Case Management with TheHive                  | <a href="https://github.com/RichardTech33/Case-Management-Lab">Case Management Lab</a>|
-| STIG Compliance Automation |<a href="https://github.com/RichardTech33/STIG-Compliance-Automation">Stig Automation Lab|<!--
+| STIG Compliance Automation |<a href="https://github.com/RichardTech33/STIG-Compliance-Automation">STIG Automation Lab|<!--
 
 ## Tools
 
