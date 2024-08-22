@@ -50,6 +50,8 @@ My career journey has instilled in me a deep-seated ambition to excel in the cyb
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS_S3-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=google-cloud&logoColor=white" />
+
 
 </div>
 
